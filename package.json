@@ -1,0 +1,13 @@
+{
+  "name": "escola-de-governo-capacitacoes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=24.0.0"},
+  "scripts": {
+    "start": "node server.mjs",
+    "demo": "node demo.mjs",
+    "test": "node --test",
+    "backup": "node maintenance.mjs backup"
+  }
+}

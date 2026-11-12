@@ -1,0 +1,9 @@
+/data/
+/.qa/
+/.env
+/.env.*
+!/.env.example
+/node_modules/
+*.log
+*.pem
+*.key
